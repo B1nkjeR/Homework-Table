@@ -1,0 +1,26 @@
+
+
+
+*{
+	margin: 15px;
+	padding: 0;
+}
+html{
+	padding-left: 12px;
+}
+.table{
+	font-family: 'Concert One', cursive;
+	width:15%;
+	padding: 15px;
+	background-color: blue;
+	color: white;
+}
+h3{
+	font-family: 'Concert One', cursive;
+color: blue;
+}
+.footer{
+	font-family: 'Concert One', cursive;
+	font-size: 1em;
+color: blue;
+}
